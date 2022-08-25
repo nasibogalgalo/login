@@ -1,0 +1,148 @@
+body {
+    /* background-color: #1fb656; */
+    /* padding: 20px;
+    margin: 20px; */
+}
+
+.login {
+    max-width: 700px;
+    margin: auto auto;
+    margin-top: 50px;
+}
+
+.anchor hover {
+    /* color:yellow; */
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.top {
+    float: right;
+}
+
+.register {
+    max-width: 700px;
+    margin: auto auto;
+    margin-top: 50px;
+
+}
+
+.navbar {
+    /* display:grid;
+    grid-template-columns: 1fr; */
+}
+
+.icon2 {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin: 0 auto;
+    padding-top: 17px;
+}
+
+.background {
+    color: rgb(170, 255, 0);
+}
+
+.first {
+    background-image: url('./blood-pressure-monitor-1749577.jpg');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.second {
+    background-image: url('./NicePng_ambe-maa-png_2477506.png');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.third {
+    background-image: url('./SeekPng.com_motion-blur-png_3521370.png');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fourth {
+    background-image: url('./economic\ growth-png.png');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fifth {
+    background-image: url('./Agriculture-Free-PNG-Image.png');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sixth {
+    background-image: url('./waste-pile.png.png');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon3 {
+    color: #fff;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin: 0 auto;
+    padding-top: 17px;
+}
+
+.buton {
+    /* margin-top: 100px; */
+    width: 95%;
+    margin: 100px auto 10px auto;
+}
+
+.proj1 {
+    border-radius: 5px;
+}
+
+.icon {
+    margin: 0 auto;
+    padding: 20px;
+    ;
+    height: 75px;
+}
+
+.jjj {
+    border-left: 1px solid #000;
+}
+
+img {
+    margin: auto auto;
+    width: 50%;
+}
+
+.img2 {
+    border-radius: 50%;
+    border: 1px solid black;
+
+}
+
+.head {
+    margin: auto auto;
+}
+
+/* .phone{
+margin-top: -30px;
+padding-top: -20px;
+} */
+.phone1 {
+    margin-bottom: -3px;
+    padding-bottom: -3px;
+}
+
+input {
+    border: 1px solid rgb(216, 226, 228);
+    height: 40px;
+}
